@@ -33,12 +33,13 @@ https://youtu.be/T6YE1UwVvBQ
 Thank you Mohit Dhankher and Louis Delia Tech Bootcamp Coding
 
 # References 
-https://www.npmjs.com/package/inquirer#documentation
+https://www.npmjs.com/package/inquirer#documentation 
+
 https://nodejs.org/en/docs/guides/getting-started-guide
 # License
 This project is licensed under the MIT license.
 
 # Questions 
-If you have any questions about this repo, please feel free to contact me at my email : kittya.goldberg1@hmail.com and Github profile : KittiyaLooknam
+If you have any questions about this repo, please feel free to contact me at my email : kittya.goldberg1@gmail.com and Github profile : KittiyaLooknam
 
 
